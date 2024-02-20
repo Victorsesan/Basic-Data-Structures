@@ -1,0 +1,6 @@
+let myArray = ["a", "b", "c", "d"];
+// Only change code below this line
+myArray[1] = "anything we want";
+// a was = 0 and b was = 1 , so 1 was changed to = anything we want, to show at the cconsole.log myarray[1]
+// Only change code above this line
+console.log(myArray);
